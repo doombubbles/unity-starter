@@ -1,0 +1,3 @@
+# [lfs]
+# url = https://username:password@yourhexchars.execute-api.aws-region.amazonaws.com/lfs
+# fetchexclude = "Vendor/**"
