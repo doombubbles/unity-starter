@@ -5,7 +5,7 @@ Use this project as a starting point for developing interactives with AppMana.
 ### Getting Started
 
  1. Download the prerequisites.
-    1. [Fork](https://github.com/AppMana/unity-starter/fork) this repository.
+    1. [Import](https://github.com/new/import) this repository (`https://github.com/AppMana/unity-starter`) to make a private copy. When prompted to enable Git LFS, say **Yes**. This lets you use large files in GitHub. You can also [fork](https://github.com/AppMana/unity-starter/fork) it for a public copy.
     2. Clone this repository to your computer. Not sure how to do that? Download [GitHub Desktop](https://desktop.github.com) and then [clone it there](x-github-client://openRepo/https://github.com/AppMana/unity-starter).
     3. [Download Unity](https://unity3d.com/get-unity/download). You will need to install the latest version of Unity 2021.3. Need help? [Watch this tutorial](https://www.youtube.com/watch?v=rE03nC4K_Eg).
  2. Work on your project.
